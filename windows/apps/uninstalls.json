@@ -201,10 +201,6 @@
       {
         "Path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
         "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=OneNoteFreeRetail.16_en-us_x-none culture=en-us version.16=16.0 displaylevel=false"
-      },
-      {
-        "PathRegex": "C:\\\\Program Files\\\\Google\\\\Chrome\\\\Application\\\\([\\d.]+)\\\\Installer\\\\setup\\.exe",
-        "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=OneNoteFreeRetail.16_en-us_x-none culture=en-us version.16=16.0 displaylevel=false"
       }
     ],
     "__IGNORE__CustomExeExecutes": [
