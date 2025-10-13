@@ -203,7 +203,7 @@
         "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=OneNoteFreeRetail.16_en-us_x-none culture=en-us version.16=16.0 displaylevel=false"
       },
       {
-        "Path_Regex": "C:\\\\Program Files\\\\Google\\\\Chrome\\\\Application\\\\([\\d.]+)\\\\Installer\\\\setup\\.exe",
+        "PathRegex": "C:\\\\Program Files\\\\Google\\\\Chrome\\\\Application\\\\([\\d.]+)\\\\Installer\\\\setup\\.exe",
         "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=OneNoteFreeRetail.16_en-us_x-none culture=en-us version.16=16.0 displaylevel=false"
       }
     ],
