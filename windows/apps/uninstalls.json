@@ -1,0 +1,221 @@
+{
+    "Info": "list of to install apps",
+    "WinApps": [
+      "AD2F1837.HPDisplayCenter",
+      "AD2F1837.HPPrinterControl",
+      "AD2F1837.HPPrivacySettings",
+      "AD2F1837.HPProgrammableKey",
+      "AD2F1837.HPQuickDrop",
+      "AD2F1837.HPSupportAssistant",
+      "AD2F1837.HPSystemInformation",
+      "AD2F1837.myHP",
+      "Clipchamp.Clipchamp",
+      "Microsoft.549981C3F5F10",
+      "Microsoft.BingNews",
+      "Microsoft.BingSearch",
+      "Microsoft.BingWeather",
+      "Microsoft.Copilot",
+      "Microsoft.GamingApp",
+      "Microsoft.GamingServices",
+      "Microsoft.GetHelp",
+      "Microsoft.MicrosoftSolitaireCollection",
+      "Microsoft.People",
+      "Microsoft.WindowsFeedbackHub",
+      "Microsoft.WindowsMaps",
+      "Microsoft.Xbox.TCUI",
+      "Microsoft.XboxApp",
+      "Microsoft.XboxGameOverlay",
+      "Microsoft.XboxGamingOverlay",
+      "Microsoft.XboxIdentityProvider",
+      "Microsoft.XboxSpeechToTextOverlay",
+      "Microsoft.YourPhone",
+      "ReincubateLtd.CamoStudio",
+      "SpotifyAB.SpotifyMusic",
+      "microsoft.messaging",
+      "microsoft.Microsoft3dViewer",
+      "microsoft.microsoftofficehub",
+      "microsoft.oneconnect",
+      "Microsoft.Office.OneNote",
+      "Microsoft.FreshPaint",
+      "Microsoft.Office.Sway",
+      "Microsoft.SkypeApp",
+      "D5EA27B7.Duolingo-LearnLanguagesforFree",
+      "46928bounde.EclipseManager",
+      "AdobeSystemsIncorporated.AdobePhotoshopExpress",
+      "89006A2E.AutodeskSketchBook",
+      "Microsoft.Wallet",
+      "828B5831.HiddenCityMysteryofShadows",
+      "Windows.CBSPreview",
+      "king.com.CandyCrushSaga",
+      "king.com.CandyCrushSodaSaga",
+      "king.com.CandyCrushFriends",
+      "Fitbit.FitbitCoach",
+      "Microsoft.BingFinance",
+      "Microsoft.BingSports",
+      "2FE3CB00.PicsArt-PhotoStudio",
+      "CAF9E577.Plex",
+      "ThumbmunkeysLtd.PhototasticCollage",
+      "king.com.FarmHeroesSaga",
+      "HuluLLC.HuluPlus"
+    ],
+    "__IGNORE__WinApps": [
+      "Microsoft.XboxGameCallableUI"
+    ],
+    "Wingets": [
+      "HP Sure Recover",
+      "HP Sure Run Module",
+      "HP Wolf Security",
+      "HP Wolf Security - Console",
+      "HP Wolf Security Application Support*",
+      "HP Security Update Service",
+      "HP Insights",
+      "HP Insights Analytics",
+      "HP Insights Analytics - Dependencies",
+      "HP Dock Accessory WMI Provider",
+      "3D-Viewer",
+      "Cortana",
+      "Copilot",
+      "Deutsch Local Experience Pack",
+      "Dev Home",
+      "ESET Context Menu",
+      "Feedback-Hub",
+      "Game Bar",
+      "Gaming Services",
+      "HP Display Center",
+      "HP Documentation",
+      "HP Notifications",
+      "HP PC Hardware Diagnostics Windows",
+      "HP Power Manager",
+      "HP Privacy Settings",
+      "HP QuickDrop",
+      "HP Support Assistant",
+      "HP System Information",
+      "Hilfe anfordern",
+      "ICS",
+      "Mail und Kalender",
+      "MSN Wetter",
+      "myHP",
+      "Microsoft 365 (Office)",
+      "Microsoft Clipchamp",
+      "Microsoft Family",
+      "Microsoft Kontakte",
+      "Microsoft OneDrive",
+      "Microsoft Teams Meeting Add-in for Microsoft Office",
+      "Microsoft Teams",
+      "Microsoft Teams (personal)",
+      "Microsoft-Tipps",
+      "Nachrichten",
+      "OneDrive",
+      "Outlook for Windows",
+      "Power Automate",
+      "Smartphone-Link",
+      "Schnellhilfe",
+      "Solitaire & Casual Games",
+      "Spotify Musik und Podcasts",
+      "Teams Machine-Wide Installer",
+      "Websuche von Microsoft Bing",
+      "Windows-Karten",
+      "Xbox Game Bar Plugin",
+      "Xbox Game Speech Window",
+      "Xbox Identity Provider",
+      "Xbox TCUI",
+      "Xbox"
+    ],
+    "__IGNORE__Wingets": [
+      "AnyDesk",
+      "ESET Security",
+      "Google Chrome",
+      "HP Connection Optimizer",
+      "Microsoft 365 Apps for Business - de-de",
+      "Microsoft 365 Apps for business - en-gb",
+      "Microsoft OneNote - de-de",
+      "Microsoft OneNote - en-gb"
+    ],
+    "Packages": [
+      "Office"
+    ],
+    "MsiExecs": [
+      "ESET Security"
+    ],
+    "CustomExes": [
+      {
+        "Path": "C:\\Program Files (x86)\\AnyDesk\\anydesk.exe",
+        "Args": "--silent --remove"
+      },
+      {
+        "Path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
+        "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=O365BusinessRetail.16_de-de_x-none culture=de-de version.16=16.0 displaylevel=false"
+      },
+      {
+        "Path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
+        "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=O365BusinessRetail.16_en-us_x-none culture=en-us version.16=16.0 displaylevel=false"
+      },
+      {
+        "Path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
+        "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=O365BusinessRetail.16_en-gb_x-none culture=en-gb version.16=16.0 displaylevel=false"
+      },
+      {
+        "Path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
+        "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=O365BusinessRetail.16_fr-fr_x-none culture=fr-fr version.16=16.0 displaylevel=false"
+      },
+      {
+        "Path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
+        "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=O365BusinessRetail.16_nl-nl_x-none culture=nl-nl version.16=16.0 displaylevel=false"
+      },
+      {
+        "Path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
+        "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=O365BusinessRetail.16_pl-pl_x-none culture=pl-pl version.16=16.0 displaylevel=false"
+      },
+      {
+        "Path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
+        "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=O365HomePremRetail.16_de-de_x-none culture=de-de version.16=16.0 displaylevel=false"
+      },
+      {
+        "Path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
+        "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=O365HomePremRetail.16_en-gb_x-none culture=en-gb version.16=16.0 displaylevel=false"
+      },
+      {
+        "Path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
+        "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=O365HomePremRetail.16_en-us_x-none culture=en-us version.16=16.0 displaylevel=false"
+      },
+      {
+        "Path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
+        "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=O365HomePremRetail.16_fr-fr_x-none culture=fr-fr version.16=16.0 displaylevel=false"
+      },
+      {
+        "Path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
+        "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=O365HomePremRetail.16_nl-nl_x-none culture=nl-nl version.16=16.0 displaylevel=false"
+      },
+      {
+        "Path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
+        "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=O365HomePremRetail.16_pl-pl_x-none culture=pl-pl version.16=16.0 displaylevel=false"
+      },
+      {
+        "Path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
+        "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=OneNoteFreeRetail.16_de-de_x-none culture=de-de version.16=16.0 displaylevel=false"
+      },
+      {
+        "Path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
+        "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=OneNoteFreeRetail.16_en-gb_x-none culture=en-gb version.16=16.0 displaylevel=false"
+      },
+      {
+        "Path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
+        "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=OneNoteFreeRetail.16_en-us_x-none culture=en-us version.16=16.0 displaylevel=false"
+      },
+      {
+        "Path_Regex": "C:\\\\Program Files\\\\Google\\\\Chrome\\\\Application\\\\([\\d.]+)\\\\Installer\\\\setup\\.exe",
+        "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=OneNoteFreeRetail.16_en-us_x-none culture=en-us version.16=16.0 displaylevel=false"
+      }
+    ],
+    "__IGNORE__CustomExeExecutes": [
+
+    ],
+    "Folders": [
+      "C:\\Program Files (x86)\\Online Services",
+      "C:\\Users\\Default\\AppData\\Local\\Packages",
+      "C:\\XboxGames",
+      "C:\\hpswsetup",
+      "C:\\SWSetup"
+    ]
+  }
+  
