@@ -1,6 +1,7 @@
 {
     "Info": "list of to install apps",
-    "WinApps": [
+    "Version": "0.0.1",
+    "AppxPackages": [
       "AD2F1837.HPDisplayCenter",
       "AD2F1837.HPPrinterControl",
       "AD2F1837.HPPrivacySettings",
@@ -26,6 +27,7 @@
       "Microsoft.XboxApp",
       "Microsoft.XboxGameOverlay",
       "Microsoft.XboxGamingOverlay",
+      "Microsoft.XboxGameCallableUI",
       "Microsoft.XboxIdentityProvider",
       "Microsoft.XboxSpeechToTextOverlay",
       "Microsoft.YourPhone",
@@ -58,8 +60,8 @@
       "king.com.FarmHeroesSaga",
       "HuluLLC.HuluPlus"
     ],
-    "__IGNORE__WinApps": [
-      "Microsoft.XboxGameCallableUI"
+    "__IGNORE__AppxPackages": [
+      
     ],
     "Wingets": [
       "HP Sure Recover",
@@ -74,8 +76,6 @@
       "HP Dock Accessory WMI Provider",
       "3D-Viewer",
       "Cortana",
-      "Copilot",
-      "Deutsch Local Experience Pack",
       "Dev Home",
       "ESET Context Menu",
       "Feedback-Hub",
@@ -95,24 +95,17 @@
       "Mail und Kalender",
       "MSN Wetter",
       "myHP",
-      "Microsoft 365 (Office)",
       "Microsoft Clipchamp",
       "Microsoft Family",
       "Microsoft Kontakte",
-      "Microsoft OneDrive",
-      "Microsoft Teams Meeting Add-in for Microsoft Office",
-      "Microsoft Teams",
-      "Microsoft Teams (personal)",
       "Microsoft-Tipps",
       "Nachrichten",
-      "OneDrive",
       "Outlook for Windows",
       "Power Automate",
       "Smartphone-Link",
       "Schnellhilfe",
       "Solitaire & Casual Games",
       "Spotify Musik und Podcasts",
-      "Teams Machine-Wide Installer",
       "Websuche von Microsoft Bing",
       "Windows-Karten",
       "Xbox Game Bar Plugin",
@@ -129,22 +122,37 @@
       "Microsoft 365 Apps for Business - de-de",
       "Microsoft 365 Apps for business - en-gb",
       "Microsoft OneNote - de-de",
-      "Microsoft OneNote - en-gb"
+      "Microsoft OneNote - en-gb",
+      "Copilot",
+      "Deutsch Local Experience Pack",
+      "Microsoft 365 (Office)",
+      "OneDrive",
+      "Microsoft OneDrive",
+      "Microsoft Teams Meeting Add-in for Microsoft Office",
+      "Microsoft Teams",
+      "Microsoft Teams (personal)",
+      "Teams Machine-Wide Installer"
     ],
-    "Packages": [
+    "Win32Products": [
+      
+    ],
+    "__IGNORE__Win32Products": [
       "Office"
     ],
-    "MsiExecs": [
+    "Msis": [
       "ESET Security"
     ],
     "CustomExes": [
+
+    ],
+    "__IGNORE__CustomExes": [
       {
-        "Path": "C:\\Program Files (x86)\\AnyDesk\\anydesk.exe",
-        "Args": "--silent --remove"
+        "path": "C:\\Program Files (x86)\\AnyDesk\\anydesk.exe",
+        "args": "--silent --remove"
       },
       {
-        "Path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
-        "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=O365BusinessRetail.16_de-de_x-none culture=de-de version.16=16.0 displaylevel=false"
+        "path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
+        "args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=O365BusinessRetail.16_de-de_x-none culture=de-de version.16=16.0 displaylevel=false"
       },
       {
         "Path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
@@ -202,9 +210,6 @@
         "Path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
         "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=OneNoteFreeRetail.16_en-us_x-none culture=en-us version.16=16.0 displaylevel=false"
       }
-    ],
-    "__IGNORE__CustomExeExecutes": [
-
     ],
     "Folders": [
       "C:\\Program Files (x86)\\Online Services",
