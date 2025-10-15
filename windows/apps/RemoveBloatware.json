@@ -1,6 +1,6 @@
 {
     "Info": "list of to install apps",
-    "Version": "0.0.3",
+    "Version": "0.0.4",
     "AppxPackages": [
       "AD2F1837.HPDisplayCenter",
       "AD2F1837.HPPrinterControl",
@@ -56,11 +56,12 @@
       "CAF9E577.Plex",
       "ThumbmunkeysLtd.PhototasticCollage",
       "king.com.FarmHeroesSaga",
-      "HuluLLC.HuluPlus"
+      "HuluLLC.HuluPlus",
+      "Windows.CBSPreview",
+      "Microsoft.XboxGameCallableUI"
     ],
     "__IGNORE__AppxPackages": [
-      "Windows.CBSPreview",
-      "Microsoft.XboxGameCallableUI__________LETSscriptHANG!"
+      
     ],
     "Wingets": [
       "HP Sure Recover",
