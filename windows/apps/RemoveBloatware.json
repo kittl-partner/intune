@@ -1,6 +1,6 @@
 {
     "Info": "list of to install apps",
-    "Version": "0.0.2",
+    "Version": "0.0.3",
     "AppxPackages": [
       "AD2F1837.HPDisplayCenter",
       "AD2F1837.HPPrinterControl",
@@ -46,7 +46,6 @@
       "89006A2E.AutodeskSketchBook",
       "Microsoft.Wallet",
       "828B5831.HiddenCityMysteryofShadows",
-      "Windows.CBSPreview",
       "king.com.CandyCrushSaga",
       "king.com.CandyCrushSodaSaga",
       "king.com.CandyCrushFriends",
@@ -60,6 +59,7 @@
       "HuluLLC.HuluPlus"
     ],
     "__IGNORE__AppxPackages": [
+      "Windows.CBSPreview",
       "Microsoft.XboxGameCallableUI__________LETSscriptHANG!"
     ],
     "Wingets": [
