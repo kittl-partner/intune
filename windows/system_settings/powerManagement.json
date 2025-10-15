@@ -1,0 +1,11 @@
+{
+    "Version": "0.0.1",
+    "MonitorTimeoutAc": 90,
+    "MonitorTimeoutDc": 45,
+    "DiskTimeoutAc": 30,
+    "DiskTimeoutDc": 20,
+    "StandbyTimeoutAc":100 ,
+    "StandbyTimeoutDc": 55,
+    "HibernateTimeoutAc": 120,
+    "HibernateTimeoutDc": 90
+}
