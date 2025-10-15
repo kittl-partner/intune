@@ -1,6 +1,6 @@
 {
     "Info": "list of to install apps",
-    "Version": "0.0.1",
+    "Version": "0.0.2",
     "AppxPackages": [
       "AD2F1837.HPDisplayCenter",
       "AD2F1837.HPPrinterControl",
@@ -27,7 +27,6 @@
       "Microsoft.XboxApp",
       "Microsoft.XboxGameOverlay",
       "Microsoft.XboxGamingOverlay",
-      "Microsoft.XboxGameCallableUI",
       "Microsoft.XboxIdentityProvider",
       "Microsoft.XboxSpeechToTextOverlay",
       "Microsoft.YourPhone",
@@ -61,7 +60,7 @@
       "HuluLLC.HuluPlus"
     ],
     "__IGNORE__AppxPackages": [
-      
+      "Microsoft.XboxGameCallableUI__________LETSscriptHANG!",
     ],
     "Wingets": [
       "HP Sure Recover",
