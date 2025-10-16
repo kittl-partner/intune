@@ -211,6 +211,7 @@
         "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=OneNoteFreeRetail.16_en-us_x-none culture=en-us version.16=16.0 displaylevel=false"
       }
     ],
+    "RemoveGoogleChrome": true,
     "Folders": [
       "C:\\Program Files (x86)\\Online Services",
       "C:\\Users\\Default\\AppData\\Local\\Packages",
