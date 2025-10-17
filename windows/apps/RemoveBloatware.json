@@ -56,11 +56,11 @@
       "CAF9E577.Plex",
       "ThumbmunkeysLtd.PhototasticCollage",
       "king.com.FarmHeroesSaga",
-      "HuluLLC.HuluPlus",
-      "Windows.CBSPreview"
+      "HuluLLC.HuluPlus"
     ],
     "__IGNORE__AppxPackages": [
-      "Microsoft.XboxGameCallableUI"
+      "Microsoft.XboxGameCallableUI",
+      "Windows.CBSPreview"
     ],
     "Wingets": [
       "HP Sure Recover",
