@@ -1,6 +1,6 @@
 {
     "Info": "list of to install apps",
-    "Version": "0.0.5",
+    "Version": "0.0.6",
     "AppxPackages": [
       "AD2F1837.HPDisplayCenter",
       "AD2F1837.HPPrinterControl",
@@ -56,11 +56,11 @@
       "CAF9E577.Plex",
       "ThumbmunkeysLtd.PhototasticCollage",
       "king.com.FarmHeroesSaga",
-      "HuluLLC.HuluPlus"
-    ],
-    "__IGNORE__AppxPackages": [
+      "HuluLLC.HuluPlus",
       "Microsoft.XboxGameCallableUI",
       "Windows.CBSPreview"
+    ],
+    "__IGNORE__AppxPackages": [
     ],
     "Wingets": [
       "HP Sure Recover",
@@ -210,6 +210,7 @@
         "Args": "scenario=install scenariosubtype=ARP sourcetype=None productstoremove=OneNoteFreeRetail.16_en-us_x-none culture=en-us version.16=16.0 displaylevel=false"
       }
     ],
+    "RemoveHpSoftware": true,
     "RemoveGoogleChrome": true,
     "Folders": [
       "C:\\Program Files (x86)\\Online Services",
