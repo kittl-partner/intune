@@ -107,8 +107,6 @@
       "ICS",
       "Mail und Kalender",
       "Microsoft 365 (Office)",
-      "Microsoft 365 Apps for Business - de-de",
-      "Microsoft 365 Apps for business - en-gb",
       "Microsoft Clipchamp",
       "Microsoft Family",
       "Microsoft Kontakte",
@@ -143,7 +141,9 @@
       "Microsoft Teams",
       "Microsoft Teams (personal)",
       "OneDrive",
-      "Teams Machine-Wide Installer"
+      "Teams Machine-Wide Installer",
+      "Microsoft 365 Apps for Business - de-de",
+      "Microsoft 365 Apps for business - en-gb"
     ],
 
     "Win32Products": [
