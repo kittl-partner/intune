@@ -1,6 +1,6 @@
 {
     "Info": "list of to install apps",
-    "Version": "0.0.7",
+    "Version": "0.0.8",
     "AppxPackages": [
       "2FE3CB00.PicsArt-PhotoStudio",
       "46928bounde.EclipseManager",
@@ -80,6 +80,7 @@
       "HP Client Security Manager",
       "HP Connection Optimizer",
       "HP Display Center",
+      "HP System Default Settings",
       "HP Dock Accessory WMI Provider",
       "HP Documentation",
       "HP Insights Analytics - Dependencies",
@@ -144,8 +145,19 @@
       "OneDrive",
       "Teams Machine-Wide Installer"
     ],
+
     "Win32Products": [
-      
+      "HP Client Security Manager",
+      "HP Connection Optimizer",
+      "HP Documentation",
+      "HP Notifications",
+      "HP Security Update Service",
+      "HP Sure Click",
+      "HP Sure Sense Installer",
+      "HP System Default Settings",
+      "HP Wolf Security",
+      "HP Wolf Security Application Support for Sure Sense",
+      "HP Wolf Security Application Support for Windows"
     ],
     "__IGNORE__Win32Products": [
       "Office"
