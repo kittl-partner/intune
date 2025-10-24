@@ -31,7 +31,6 @@
       "Microsoft.BingSearch",
       "Microsoft.BingSports",
       "Microsoft.BingWeather",
-      "Microsoft.Copilot",
       "Microsoft.FreshPaint",
       "Microsoft.GamingApp",
       "Microsoft.GamingServices",
@@ -65,6 +64,7 @@
       "Windows.CBSPreview"
     ],
     "__IGNORE__AppxPackages": [
+      "Microsoft.Copilot"
     ],
     "Wingets": [
       "3D-Viewer",
