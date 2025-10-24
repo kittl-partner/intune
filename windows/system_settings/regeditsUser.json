@@ -1,0 +1,23 @@
+{
+    "Version": "0.0.1",
+    "Entries": [
+        {
+            "Description": "show file extensions",
+            "Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+            "KeyName": "HideFileExt",
+            "Value": 1
+        },
+        {
+            "Description": "show hidden files",
+            "Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+            "KeyName": "Hidden",
+            "Value": 1
+        },
+        {
+            "Description": "show hidden system files",
+            "Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+            "KeyName": "ShowSuperHidden",
+            "Value": 1
+        }
+    ]
+}
