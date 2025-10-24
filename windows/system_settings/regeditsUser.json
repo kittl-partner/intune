@@ -1,5 +1,5 @@
 {
-    "Version": "0.0.2",
+    "Version": "0.0.3",
     "Entries": [
         {
             "Description": "show file extensions",
@@ -18,6 +18,12 @@
             "Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
             "KeyName": "ShowSuperHidden",
             "Value": 1
+        },
+        {
+            "Description": "classic context menu",
+            "Path": "HKCU:\\SOFTWARE\\CLASSES\\CLSID\\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\\InprocServer32",
+            "KeyName": "(Default)",
+            "Value": ""
         }
     ]
 }
