@@ -1,5 +1,5 @@
 {
-    "Version": "0.0.4",
+    "Version": "0.0.5",
     "Entries": [
         {
             "Description": "show file extensions",
@@ -17,7 +17,7 @@
             "Description": "show hidden system files",
             "Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
             "KeyName": "ShowSuperHidden",
-            "Value": 1
+            "Value": 0
         },
         {
             "Description": "classic context menu",
