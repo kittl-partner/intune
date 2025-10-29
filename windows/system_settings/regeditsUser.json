@@ -11,7 +11,7 @@
             "Description": "show hidden files",
             "Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
             "KeyName": "Hidden",
-            "Value": 1
+            "Value": 0
         },
         {
             "Description": "show hidden system files",
