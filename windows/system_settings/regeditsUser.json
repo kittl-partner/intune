@@ -15,6 +15,12 @@
         },
         {
             "Description": "show hidden system files",
+            "Path": "HKCU:\\Software\\Microsoft\\Multimedia\\Audio",
+            "KeyName": "UserDuckingPreference",
+            "Value": 3
+        },
+        {
+            "Description": "disable automatic volume reduction",
             "Path": "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
             "KeyName": "ShowSuperHidden",
             "Value": 0
