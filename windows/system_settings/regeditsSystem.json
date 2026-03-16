@@ -2,10 +2,10 @@
     "Version": "0.0.1",
     "Entries": [
         {
-            "Description": "",
-            "Path": "",
-            "KeyName": "",
-            "Value": ""
+            "Description": "Numlock enabled by default (logon)",
+            "Path": "HKU:\\.DEFAULT\\Control Panel\\Keyboard",
+            "KeyName": "InitialKeyboardIndicators",
+            "Value": 2
         }
     ]
 }
